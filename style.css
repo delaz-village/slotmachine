@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+p {
+  display: inline-block;
+  font-size: 30px;
+  margin: 0;
+}
+#setTime {
+  width: 100;
+}
+#startTimer {
+  display: block;
+  margin: 0 auto;
+}
+
+/*  チャレンジ問題 */
+
+.slot-wrap {
+  height: 160px;
+  width: 100px;
+  margin: 0 auto;
+}
+.middle-slot {
+  background-color:orange;
+}
+.slot {
+  height: 40px;
+}
+
+
+/*  チャレンジ問題  ここまで */
